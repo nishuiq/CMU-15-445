@@ -28,6 +28,8 @@
 
 ## 截图
 
-![C++ Primer](./pic/C++ Primer.png)
-![Buffer Pool Manager](./pic/Buffer Pool Manager.png)
-![Buffer Pool Manager Leaderboard](./pic/Buffer Pool Manager Leaderboard.png)
+![C++ Primer](/pic/C++%20Primer.png)
+
+![Buffer Pool Manager](/pic/Buffer%20Pool%20Manager.png)
+
+![Buffer Pool Manager Leaderboard](/pic/Buffer%20Pool%20Manager%20Leaderboard.png)
