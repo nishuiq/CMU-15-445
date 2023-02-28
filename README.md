@@ -2,6 +2,10 @@
 
 课程作业为 2022 fall
 
+> Do not post your project on a public Github repository.
+
+基于该原因，不会提供完整实现。
+
 ## Projects
 
 - [x] Project 0 - C++ Primer
