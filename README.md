@@ -6,7 +6,7 @@
 
 基于该原因，不会提供完整实现。
 
-## Projects
+## Projects 2022
 
 - [x] Project 0 - C++ Primer
 
@@ -18,7 +18,7 @@
 
 - [ ] Project 4 - Concurrency Control
 
-## Homework
+## Homework 2022
 
 - [x] SQL
 
