@@ -31,9 +31,14 @@
 - [ ] Distributed Databases
 
 ## 截图
-
+C++ Primer：字典树 Gradescope 提交通过截图
 ![C++ Primer](/pic/C++%20Primer.png)
 
+Buffer Pool Manager：Gradescope 提交通过截图
 ![Buffer Pool Manager](/pic/Buffer%20Pool%20Manager.png)
 
+Buffer Pool Manager：Gradescope 用时排行榜
 ![Buffer Pool Manager Leaderboard](/pic/Buffer%20Pool%20Manager%20Leaderboard.png)
+
+BMP部分实现code：
+![BMP部分实现code](/pic/BMP部分实现code.png)
